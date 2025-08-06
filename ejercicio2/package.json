@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "concurrently \"tsc --watch\" \"lite-server\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "lite-server": "^2.6.1",
+    "typescript": "^5.9.2"
+  }
+}
