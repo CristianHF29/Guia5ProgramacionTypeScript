@@ -16,7 +16,6 @@ Cada carpeta (`ejercicio1`, `ejercicio2`, etc.) contiene una solución completa 
 | ejercicio3    | Clase `Cancion` con encapsulamiento y métodos getter/set |
 | ejercicio4    | Clase `Cuenta` que valida depósitos y retiros            |
 | ejercicio5    | Clases `Persona` (abstracta) y `Empleado` con herencia   |
-| ejercicio6    | *(Reserva para ejercicio adicional o extensión)*         |
 
 ---
 
